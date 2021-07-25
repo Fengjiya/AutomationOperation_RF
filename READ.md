@@ -1,0 +1,5 @@
+AutomationOperation_RF
+
+概述：基于RobotFramework的自动化运行平台，该平台针对Robotframework框架的自动化脚本，进行用例的基本信息记录、运行信息记录、数据分析。
+
+旨在给出RF框架自动化脚本的通用运营平台。（2021年7月25日）
